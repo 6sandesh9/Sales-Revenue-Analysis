@@ -110,7 +110,7 @@ Sales & Revenue Analysis/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/6sandesh9/your-repository-name.git
+git clone https://github.com/6sandesh9/Sales-Revenue-Analysis.git
 ```
 
 ### 2. Navigate to the Project Folder
