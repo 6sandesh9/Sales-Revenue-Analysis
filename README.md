@@ -145,6 +145,18 @@ If `app.py` is inside the `Sales Analysis Dashboard` folder:
 python -m streamlit run "Sales Analysis Dashboard/app.py"
 ```
 
+## Charts
+
+### Monthly Revenue
+![Monthly Revenue](Reports\monthly_revenue.png)
+
+### Profit by product
+![Profit by Product](Reports\profit_by_product.png)
+
+### Profit Distribution
+![Prodit Distribution](Reports\profit_distribution.png)
+
+
 ## Learning Outcomes
 
 - Practiced data cleaning and exploratory data analysis.
